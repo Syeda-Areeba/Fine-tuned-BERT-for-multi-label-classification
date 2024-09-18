@@ -1,4 +1,4 @@
-# Urdu Text Classification using BERT 
+# Multi-label Text Classification using BERT 
 
 ## Overview
 
